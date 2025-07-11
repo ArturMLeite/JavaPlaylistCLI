@@ -44,12 +44,6 @@ Escolha uma opção:
 Java (8+)
 Terminal (CLI)
 
-🤝 Contribuição
-
-Contribuições são bem-vindas!
-Você pode abrir issues, enviar pull requests ou sugerir melhorias.
-
-
 📜 Licença
 
 Este projeto está sob a Licença MIT, disponível em LICENSE.
