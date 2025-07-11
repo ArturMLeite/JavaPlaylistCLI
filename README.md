@@ -1,4 +1,4 @@
-# 🎵 JavaPlaylistCLI
+# 🎵 Java-Playlist
 
 Um **aplicativo de linha de comando em Java** para gerenciar playlists de forma simples, didática e prática.  
 Ideal para **praticar programação orientada a objetos, controle de fluxo e uso de `Scanner` em Java**.
