@@ -1,5 +1,3 @@
-# JavaPlaylistCLI
-
 # 🎵 JavaPlaylistCLI
 
 Um **aplicativo de linha de comando em Java** para gerenciar playlists de forma simples, didática e prática.  
